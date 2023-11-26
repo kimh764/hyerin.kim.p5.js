@@ -1,0 +1,14 @@
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+  }
+  body {
+    color: black;
+    background-color: black;
+  }
+
+  h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    
+  }
