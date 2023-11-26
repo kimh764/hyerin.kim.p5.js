@@ -2,3 +2,9 @@ body {
     background: wheat; overflow: hidden;
 }
 
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-align: center;
+    color: skyblue;
+}
